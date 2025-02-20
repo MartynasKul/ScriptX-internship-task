@@ -8,18 +8,26 @@ Wanted to test with android still using expo, but either the android device was 
 
 # To run application
 Fork or just download the repository and navigate to ScriptXCinema directory
-```
+```bash
 cd ScriptXCinema
 ```
 
 To test application i used Expo, which allowed me to test my project on my iphone as my android device was acting up for some reason.
 To use expo for testing of the application, you will need to use this command and get the Expo Go app on your mobile device:
-```
+```bash
 npx expo start
 ```
 
 Scan the generated qr code on your device and it will open your expo app, with which you will be able to try out the application. 
 If you need to test out a web version of this application, use this command:
-```
+```bash
 npx expo start --web
+```
+
+Other commands:
+```bash
+cd ScriptXCinema
+npm run android
+npm run ios # you need to use macOS to build the iOS project - use the Expo app if you need to do iOS development without a Mac
+npm run web
 ```
