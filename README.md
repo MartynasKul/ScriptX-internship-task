@@ -20,6 +20,7 @@ Fork or just download the repository and navigate to ScriptXCinema directory
 cd ScriptXCinema
 ```
 *You must create a .env to store your own tmdb api keys to test out if the project works :)*
+*Main variable you will need is named TMDB_API_KEY, so when making your .env file, declare it as TMDB_API_KEY=your_key_here or change a whole lot of calls with your desired api key*
 
 To test application i used Expo, which allowed me to test my project on my iphone as my android device was acting up for some reason.
 To use expo for testing of the application, you will need to use this command and get the Expo Go app on your mobile device:
