@@ -43,8 +43,8 @@ npm run web
 
 #Pictures
 <li>
-  <ul><img src="https://github.com/user-attachments/assets/42e0de3c-dbf0-4b09-ac08-4e4a9215d8b8" width="300" height="500"></ul>
-  <ul><img src="https://github.com/user-attachments/assets/904e6ae4-aa45-4a93-b4fc-a139e28785b8" width="300" height="500"></ul> 
+  <ul><img src="https://github.com/user-attachments/assets/42e0de3c-dbf0-4b09-ac08-4e4a9215d8b8" width="300" height="500"> <img src="https://github.com/user-attachments/assets/904e6ae4-aa45-4a93-b4fc-a139e28785b8" width="300" height="500"></ul>
+  
 </li>
 <img src="https://github.com/user-attachments/assets/42e0de3c-dbf0-4b09-ac08-4e4a9215d8b8" width="300" height="500">
 <img src="https://github.com/user-attachments/assets/904e6ae4-aa45-4a93-b4fc-a139e28785b8" width="300" height="500">
