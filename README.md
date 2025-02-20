@@ -42,6 +42,12 @@ npm run web
 ```
 
 #Pictures:
+<img src="[image-url](https://github.com/user-attachments/assets/42e0de3c-dbf0-4b09-ac08-4e4a9215d8b8)" alt="Alt Text" width="300" height="200">
+<img src="[image-url](https://github.com/user-attachments/assets/904e6ae4-aa45-4a93-b4fc-a139e28785b8)" alt="Alt Text" width="300" height="200">
+<img src="image-url" alt="Alt Text" width="300" height="200">
+<img src="image-url" alt="Alt Text" width="300" height="200">
+<img src="image-url" alt="Alt Text" width="300" height="200">
+<img src="image-url" alt="Alt Text" width="300" height="200">
 ![image](https://github.com/user-attachments/assets/42e0de3c-dbf0-4b09-ac08-4e4a9215d8b8) ![image](https://github.com/user-attachments/assets/904e6ae4-aa45-4a93-b4fc-a139e28785b8)
 
 ![image](https://github.com/user-attachments/assets/b757524c-ef93-40ca-8d2e-2c24cac3d79b) ![image](https://github.com/user-attachments/assets/30e40616-dd34-4e92-ab85-8ea13641f1ab)
