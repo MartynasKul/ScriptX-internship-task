@@ -42,18 +42,14 @@ npm run web
 ```
 
 #Pictures:
-<img src="[image-url](https://github.com/user-attachments/assets/42e0de3c-dbf0-4b09-ac08-4e4a9215d8b8)" alt="Alt Text" width="300" height="200">
-<img src="[image-url](https://github.com/user-attachments/assets/904e6ae4-aa45-4a93-b4fc-a139e28785b8)" alt="Alt Text" width="300" height="200">
-<img src="image-url" alt="Alt Text" width="300" height="200">
-<img src="image-url" alt="Alt Text" width="300" height="200">
-<img src="image-url" alt="Alt Text" width="300" height="200">
-<img src="image-url" alt="Alt Text" width="300" height="200">
-![image](https://github.com/user-attachments/assets/42e0de3c-dbf0-4b09-ac08-4e4a9215d8b8) ![image](https://github.com/user-attachments/assets/904e6ae4-aa45-4a93-b4fc-a139e28785b8)
+<img src="[image-url](https://github.com/user-attachments/assets/42e0de3c-dbf0-4b09-ac08-4e4a9215d8b8)" width="300" height="200">
+<img src="[image-url](https://github.com/user-attachments/assets/904e6ae4-aa45-4a93-b4fc-a139e28785b8)" width="300" height="200">
+<img src="[image-url](https://github.com/user-attachments/assets/b757524c-ef93-40ca-8d2e-2c24cac3d79b)" width="300" height="200">
+<img src="[image-url](https://github.com/user-attachments/assets/30e40616-dd34-4e92-ab85-8ea13641f1ab)" width="300" height="200">
+<img src="[image-url](https://github.com/user-attachments/assets/c70909f4-982f-40a2-83a6-24c5cf6626c7)" width="300" height="200">
+<img src="[image-url](https://github.com/user-attachments/assets/592b22e2-9846-48bd-8e83-3b29517eff1a)" width="300" height="200">
+<img src="[image-url](https://github.com/user-attachments/assets/97c44be1-dad6-4b2a-acbc-7c1521eb3428)" width="300" height="200">
+<img src="[image-url](https://github.com/user-attachments/assets/b37aa5e2-862f-44a7-9698-2e85d692f7d7)" width="300" height="200">
 
-![image](https://github.com/user-attachments/assets/b757524c-ef93-40ca-8d2e-2c24cac3d79b) ![image](https://github.com/user-attachments/assets/30e40616-dd34-4e92-ab85-8ea13641f1ab)
-
-![image](https://github.com/user-attachments/assets/c70909f4-982f-40a2-83a6-24c5cf6626c7) ![image](https://github.com/user-attachments/assets/592b22e2-9846-48bd-8e83-3b29517eff1a)
-
-![image](https://github.com/user-attachments/assets/97c44be1-dad6-4b2a-acbc-7c1521eb3428) ![image](https://github.com/user-attachments/assets/b37aa5e2-862f-44a7-9698-2e85d692f7d7)
 
 
