@@ -10,9 +10,7 @@ Project has three main features that were supposed to be implemented (pictures w
 2. A browse page that lets users browse through movies sepparated by categories. main categories were: least popular, latest and upcomming movies, followed by each genre that TMDB api allowed me to get. this screen allows for vertical scrolling between each category aswell as horizontal scrolling within categories to browse movies
 3. A movie details page, that shows a picture of the movie, title, description/overview of the movie and two buttons to add to library and to watch movie(these features may come if i want to make the app more full), but for now these buttons just show a pop-up after pressed. At the bottom of the screen you can see movies that may interest you - meaning that they share the same genre of movie.
 4. Basic dummy login screen that's just there :)
-5. WOrking on implementing a trailer watching screen, so when the user wants to press play movie button, they get redirected to this screen where they will be able to watch a trailer of their desired film.
-6. 
-Wanted to test with android still using expo, but my old Galaxy S8 didn't seem up for the task, therefore all testing was done with an Iphone 13pro.
+5. Working on implementing a trailer watching screen, so when the user wants to press play movie button, they get redirected to this screen where they will be able to watch a trailer of their desired film.
 
 # To run application
 Fork or just download the repository and navigate to ScriptXCinema directory
@@ -22,7 +20,7 @@ cd ScriptXCinema
 *You must create a .env to store your own tmdb api keys to test out if the project works :)*
 *Main variable you will need is named TMDB_API_KEY, so when making your .env file, declare it as TMDB_API_KEY=your_key_here or change a whole lot of calls with your desired api key*
 
-To test application i used Expo, which allowed me to test my project on my iphone as my android device was acting up for some reason.
+To test application i used Expo, which allowed me to test my project on my iphone.
 To use expo for testing of the application, you will need to use this command and get the Expo Go app on your mobile device:
 ```bash
 npx expo start
